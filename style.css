@@ -1,0 +1,26 @@
+*{
+/*   border: solid 1px red;   */
+  font-family: 微軟正黑體;
+}
+body{
+  margin: 0px;
+}
+.card{
+  /* border: solid 1px red; */
+  width: 700px;
+  display: flex;
+}
+.left{
+  width: 30%;
+  backgroud-image: url(https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2021/04/11/realtime/12062763.jpg&s=Y&x=0&y=108&sw=1278&sh=852&exp=3600);
+  background-size: cover;
+}
+.right{
+  width: 70%;
+  padding: 30px;
+}
+p span{
+  color: #566C00;
+  font-weight: 700;
+  font-size: 24px;
+}
